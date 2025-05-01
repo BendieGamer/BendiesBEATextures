@@ -482,7 +482,7 @@
         }
     },
     "pack": {
-        "description": "Bendies BEA texture pack, adds BEA textures without the mod!",
+        "description": "BEA textures without the mod (v0.3)",
         "pack_format": 3
     }
 }
